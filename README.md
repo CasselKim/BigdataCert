@@ -11,3 +11,4 @@ Studying Big Data Certification
 　 2. [데이터 분석 계획](https://www.notion.so/casselkim/4517a0d481aa4f4ba3a2b3fbb67fb0eb#35e0863e9381402e86359f44f13eccd4)  
 　　 ├ [분석 방안 수립](https://www.notion.so/casselkim/4517a0d481aa4f4ba3a2b3fbb67fb0eb#f4e722064d6b41b5a61df0553740de59)  
 　　 └ [분석 작업 계획](https://www.notion.so/casselkim/4517a0d481aa4f4ba3a2b3fbb67fb0eb#a27eff06e9fb4765b72ab9dbe4eaf623)  
+　 3. [데이터 수집 및 저장 계획](https://www.notion.so/casselkim/4517a0d481aa4f4ba3a2b3fbb67fb0eb#dc5bf5003af64abf8b2edf3e7b6a209d)     
