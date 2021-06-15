@@ -16,5 +16,7 @@ Studying Big Data Certification
 　　 └ [데이터 적재 및 저장](https://www.notion.so/casselkim/4517a0d481aa4f4ba3a2b3fbb67fb0eb#4d977b26c3ae4c81af4b5aa482ffd81d)  
 Ⅱ. [빅데이터 탐색](https://www.notion.so/casselkim/d9dbb21db5c94bfdaf0f502ef1a88927)   
 　 1. [데이터 전처리](https://www.notion.so/casselkim/d9dbb21db5c94bfdaf0f502ef1a88927#e909ffaad0604c1ea9854f2c0026ef4b)  
-　　 └ [데이터 적재 및 저장](https://www.notion.so/casselkim/d9dbb21db5c94bfdaf0f502ef1a88927#88cd8e799d124f5199eb52f3a42815ab)   
+　　 ├ [데이터 적재 및 저장](https://www.notion.so/casselkim/d9dbb21db5c94bfdaf0f502ef1a88927#88cd8e799d124f5199eb52f3a42815ab)   
+　　 └ [분석 변수 처리](https://www.notion.so/casselkim/d9dbb21db5c94bfdaf0f502ef1a88927#fa4962e3ae0d4258a9aff95c481d0778)
   
+(https://www.notion.so/casselkim/d9dbb21db5c94bfdaf0f502ef1a88927#fa4962e3ae0d4258a9aff95c481d0778)
