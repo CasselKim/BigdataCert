@@ -20,4 +20,4 @@ Studying Big Data Certification
 　　 └ [분석 변수 처리](https://www.notion.so/casselkim/d9dbb21db5c94bfdaf0f502ef1a88927#fa4962e3ae0d4258a9aff95c481d0778)  
 　 2. [데이터 탐색](https://www.notion.so/casselkim/d9dbb21db5c94bfdaf0f502ef1a88927#09047e77e87e4b30bc9bd47a4c522a7c)  
 　　 ├ [데이터 탐색 기초](https://www.notion.so/casselkim/d9dbb21db5c94bfdaf0f502ef1a88927#99d5f181abe743f792dba9a42af80ce1)  
-　　 └ [고급 데이터 탐색](https://www.notion.so/casselkim/d9dbb21db5c94bfdaf0f502ef1a88927#d1ad194164f847fbb6b8413a7eb9837b_
+　　 └ [고급 데이터 탐색](https://www.notion.so/casselkim/d9dbb21db5c94bfdaf0f502ef1a88927#d1ad194164f847fbb6b8413a7eb9837b)
