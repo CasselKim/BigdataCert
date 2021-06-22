@@ -21,3 +21,4 @@ Studying Big Data Certification
 　 2. [데이터 탐색](https://www.notion.so/casselkim/d9dbb21db5c94bfdaf0f502ef1a88927#09047e77e87e4b30bc9bd47a4c522a7c)  
 　　 ├ [데이터 탐색 기초](https://www.notion.so/casselkim/d9dbb21db5c94bfdaf0f502ef1a88927#99d5f181abe743f792dba9a42af80ce1)  
 　　 └ [고급 데이터 탐색](https://www.notion.so/casselkim/d9dbb21db5c94bfdaf0f502ef1a88927#d1ad194164f847fbb6b8413a7eb9837b)
+　 3. [통계기법의 이해](https://www.notion.so/casselkim/d9dbb21db5c94bfdaf0f502ef1a88927#0483f65914724c23b7583ecd9833da17)  
