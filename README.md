@@ -31,3 +31,7 @@ Studying Big Data Certification
 　 1. [분석모형 평가 및 개선](https://www.notion.so/casselkim/41016be128be4e9090c902153128837f#9107e54268a145dab70b9e1b8a480f25)  
 　 　├ [분석모형평가](https://www.notion.so/casselkim/41016be128be4e9090c902153128837f#630578e667544a3abf692e26710d799b)  
 　　 └ [분석모형개선](https://www.notion.so/casselkim/41016be128be4e9090c902153128837f#e9a2257b048f4febb952cafb9a07c909)  
+　 2. [분석결과 해석 및 활용](https://www.notion.so/casselkim/41016be128be4e9090c902153128837f#8ce83372dabf42189d04814ee1552c71)  
+　 　├ [분석결과해석](https://www.notion.so/casselkim/41016be128be4e9090c902153128837f#4d655ba4d6bd463aa7be6007c48bdb16)  
+　 　├ [분석결과시각화](https://www.notion.so/casselkim/41016be128be4e9090c902153128837f#4c2369acaeb84867852a4bafe9f2c032)  
+　　 └ [분석결과활용](https://www.notion.so/casselkim/41016be128be4e9090c902153128837f#b002b6bbab374d1d81005cdb162b8b14)  
