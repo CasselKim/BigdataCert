@@ -1,6 +1,7 @@
 # BigdataCert
 Studying Big Data Certification  
 Exam date : 2021-10-02  
+First exam pass : 2021-10-22  
 
 [Main page](https://www.notion.so/casselkim/4e46ad7de45746f1b1f6a61164137e4d)  
 
